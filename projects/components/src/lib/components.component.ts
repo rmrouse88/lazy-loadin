@@ -7,7 +7,7 @@ import { Component, OnInit, Input } from '@angular/core';
       component works and the message is {{ primaryProperty }}
     </p>
   `,
-  styles: [d
+  styles: [
   ]
 })
 export class ComponentsComponent implements OnInit {
